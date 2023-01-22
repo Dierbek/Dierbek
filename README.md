@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Dierbek</h1>
 
-<!--
-**Dierbek/Dierbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [🖥My projects](markdown/main.md)  
+## [📋My it manuals](https://github.com/BaggerFast/ItManuals)
+## [📀My .DotFiles](https://github.com/BaggerFast/.DotFiles)
+
+<details align="left">
+  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+</details>
